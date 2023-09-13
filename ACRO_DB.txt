@@ -1,4 +1,3 @@
-APD Avalanche Photo-diode
 BGR Blue Green Red
 BJT Bipolar Junction Transistor
 CSV Comma Separated Value
