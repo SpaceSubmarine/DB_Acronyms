@@ -83,3 +83,5 @@ SSH Secure Shell
 DHCP Dynamic Host Configuration Protocol
 TRL Technology Readiness Levels
 
+
+Enter the new acronym and its description: 
