@@ -1,2 +1,85 @@
-Este es el nuevo contenido del archivo.
-Esta es una nueva línea.
+APD Avalanche Photo-diode
+BGR Blue Green Red
+BJT Bipolar Junction Transistor
+CSV Comma Separated Value
+CW Continuous Wave
+DF Data Frame
+DFT Discrete Fourier Transform
+DOF Dense Optical Flow
+EDFAs Erbium-Doped Fiber Amplifiers
+EIL Elastic Incoherent LIDAR
+ESA European Space Agency
+ESC Escape key (ISO/IEC 9995)
+FBS Frequency Beat Simulation
+FFT Fast Fourier Transform
+FIR Finite Impulse Response
+FPGA Field-Programmable Gate Array
+GNSS Global Navigation Satellite System
+GPS Global Positioning System
+GUI Graphical User Interface
+HDF5 Hierarchical Data Format 5
+HDL Hardware Description Language
+HSV Hue Saturation Value
+ID Identifier
+IFFT Inverse Fast Fourier Transform
+IR Infra Red
+InSAR Interferometric Synthetic Aperture Radar
+JTAG Joint Test Action Group
+LIDAR Light Detection and Ranging or Laser Imaging, Detection, and Ranging
+LISA Laser Interferometer Space Antenna
+MP4 MPEG-4 Part 14
+NASA National Aeronautics and Space Administration
+PCB Printed Circuit Board
+PL Programmable Logic
+PNG Portable Network Graphics
+PPP Precise Point Positioning
+PRC Pseudo Random Code
+PSU Power Supply Unit
+RADAR Radio Detection and Ranging
+RGB Red Green Blue
+ROI Region of Interest
+SAR Synthetic Aperture Radar
+SDK Software Development Kit
+SNR Signal to Noise Ratio
+SOM System on Module Based on FPGA
+SPP Standard Point Positioning
+STEC Slant Total Electron Content
+TECU Total Electron Content Unit
+TOF Time of Flight
+UART Universal Asynchronous Receiver-Transmitter
+USB Universal Serial Bus
+XADC Xilinx Analog Digital Converter
+iDFT Inverse Discrete Fourier Transform
+LEAM Lunar Ejecta and Meteorites
+FMCW Frequency Modulated Continuous Wave
+ISS International Space Station
+RTG Radioisotope Thermometric Generator
+IP Intellectual Property
+CFD Computational Fluid Dynamics
+DOAS Differential Optical Absorption Spectroscopy
+ALADIN Atmospheric Laser Doppler Instrument
+PLA Polylactic acid
+GRC Glenn Research Center
+AI Artificial Intelligence
+ML Machine Learning
+GIS Geographic Information Systems
+IoT Internet of Things
+PL Programable Logic
+PS Processing System
+SD Secure Digital card
+AXI Advanced eXtensible Interface
+GPIO General Purpose Input/Output
+LED Light Emitting Diode
+XSA Xilinx Support Archive
+XDC Xilinx Device Constrain
+IDE Integrated Development Environment
+RTL Register Transfer Level
+OS Operative System
+IIC Inter-Integrated Circuit
+SPI Serial Peripheral Interface
+SoC Systme on Chip
+ARM Advanced RISC Machine
+TCP Transmission Control Protocol
+SSH Secure Shell
+DHCP Dynamic Host Configuration Protocol
+TRL Technology Readiness Levels
