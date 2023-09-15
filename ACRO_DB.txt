@@ -82,4 +82,4 @@ TCP Transmission Control Protocol
 SSH Secure Shell
 DHCP Dynamic Host Configuration Protocol
 TRL Technology Readiness Levels
-APD Avalanche Photo-diodeSPICE Spacecraft Planet Instrument C-matrix Events
+APD Avalanche Photo-diode
