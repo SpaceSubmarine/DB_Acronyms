@@ -85,3 +85,4 @@ TRL Technology Readiness Levels
 APD Avalanche Photo-diode
 
 SPICE Spacecraft Planet Instrument C-matrix Events
+HDMI High-Definition Multimedia Interface 
